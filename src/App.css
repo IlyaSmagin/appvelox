@@ -1,38 +1,32 @@
-.App {
-  text-align: center;
+.bg-light-blue {
+  background-color: #50caff;
+}
+.bg-dark-blue {
+  background-color: #003b72;
+}
+.bg-purple {
+  background-color: #7761ff;
+}
+.color-purple {
+  color: #7761ff;
+}
+.color-light-blue {
+  color: #50caff;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.content-h-full {
+  max-height: calc(100vh - 3.5rem);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.digitalCard:hover > .digitalCard__Icon {
+  background-color: #50caff;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.digitalCard:hover .digitalCard__Bullet {
+  background-color: #50caff;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.digitalCard:hover .digitalCard__Description {
+  border-color: #50caff;
+}
+.digitalCard:hover {
+  border-color: #50caff;
 }
