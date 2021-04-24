@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/appvelox/static/css/main.bb9bf667.chunk.css",
+    "main.js": "/appvelox/static/js/main.10783fcc.chunk.js",
+    "main.js.map": "/appvelox/static/js/main.10783fcc.chunk.js.map",
+    "runtime-main.js": "/appvelox/static/js/runtime-main.93210ec6.js",
+    "runtime-main.js.map": "/appvelox/static/js/runtime-main.93210ec6.js.map",
+    "static/js/2.f3c06f28.chunk.js": "/appvelox/static/js/2.f3c06f28.chunk.js",
+    "static/js/2.f3c06f28.chunk.js.map": "/appvelox/static/js/2.f3c06f28.chunk.js.map",
+    "static/js/3.a9ef2a63.chunk.js": "/appvelox/static/js/3.a9ef2a63.chunk.js",
+    "static/js/3.a9ef2a63.chunk.js.map": "/appvelox/static/js/3.a9ef2a63.chunk.js.map",
+    "index.html": "/appvelox/index.html",
+    "static/css/main.bb9bf667.chunk.css.map": "/appvelox/static/css/main.bb9bf667.chunk.css.map",
+    "static/js/2.f3c06f28.chunk.js.LICENSE.txt": "/appvelox/static/js/2.f3c06f28.chunk.js.LICENSE.txt",
+    "static/media/analysys.58d832b2.svg": "/appvelox/static/media/analysys.58d832b2.svg",
+    "static/media/back.12ee7e8b.svg": "/appvelox/static/media/back.12ee7e8b.svg",
+    "static/media/bell.cb0013f4.svg": "/appvelox/static/media/bell.cb0013f4.svg",
+    "static/media/book.501e99b3.svg": "/appvelox/static/media/book.501e99b3.svg",
+    "static/media/doctors.248fc8c7.svg": "/appvelox/static/media/doctors.248fc8c7.svg",
+    "static/media/documents.00b49d22.svg": "/appvelox/static/media/documents.00b49d22.svg",
+    "static/media/eye.f2e1f481.svg": "/appvelox/static/media/eye.f2e1f481.svg",
+    "static/media/heart.8689dd3a.svg": "/appvelox/static/media/heart.8689dd3a.svg",
+    "static/media/help.08d1d542.svg": "/appvelox/static/media/help.08d1d542.svg",
+    "static/media/history.6448b91e.svg": "/appvelox/static/media/history.6448b91e.svg",
+    "static/media/info.d2fc3d27.svg": "/appvelox/static/media/info.d2fc3d27.svg",
+    "static/media/messages.47f404a3.svg": "/appvelox/static/media/messages.47f404a3.svg",
+    "static/media/more.ee7b21e8.svg": "/appvelox/static/media/more.ee7b21e8.svg",
+    "static/media/next.5af03325.svg": "/appvelox/static/media/next.5af03325.svg",
+    "static/media/previous.0001d58e.svg": "/appvelox/static/media/previous.0001d58e.svg",
+    "static/media/profile.f75cd8df.jpg": "/appvelox/static/media/profile.f75cd8df.jpg",
+    "static/media/search.5bda1d8f.svg": "/appvelox/static/media/search.5bda1d8f.svg",
+    "static/media/tests.f452faa4.svg": "/appvelox/static/media/tests.f452faa4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93210ec6.js",
+    "static/js/2.f3c06f28.chunk.js",
+    "static/css/main.bb9bf667.chunk.css",
+    "static/js/main.10783fcc.chunk.js"
+  ]
+}
