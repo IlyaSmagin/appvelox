@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/appvelox/static/css/main.bb9bf667.chunk.css",
-    "main.js": "/appvelox/static/js/main.10783fcc.chunk.js",
-    "main.js.map": "/appvelox/static/js/main.10783fcc.chunk.js.map",
+    "main.js": "/appvelox/static/js/main.d39e2954.chunk.js",
+    "main.js.map": "/appvelox/static/js/main.d39e2954.chunk.js.map",
     "runtime-main.js": "/appvelox/static/js/runtime-main.93210ec6.js",
     "runtime-main.js.map": "/appvelox/static/js/runtime-main.93210ec6.js.map",
     "static/js/2.f3c06f28.chunk.js": "/appvelox/static/js/2.f3c06f28.chunk.js",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.93210ec6.js",
     "static/js/2.f3c06f28.chunk.js",
     "static/css/main.bb9bf667.chunk.css",
-    "static/js/main.10783fcc.chunk.js"
+    "static/js/main.d39e2954.chunk.js"
   ]
 }
