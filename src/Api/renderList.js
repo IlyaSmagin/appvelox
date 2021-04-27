@@ -8,9 +8,9 @@ function RenderList({ list, minSize, expanded }) {
   }
   return (
     <>
-      {trimList(list, minSize, expanded).map((element, index) => {
-        return <AppointmentCard key={index} info={element} />; //TODO also pass element as prop
-      })}
+      {trimList(list, minSize, expanded).map((element, index) => (
+        <AppointmentCard key={index} info={element} /> //TODO also pass element as prop
+      ))}
     </>
   );
 }
