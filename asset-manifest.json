@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/appvelox/static/css/main.bb9bf667.chunk.css",
-    "main.js": "/appvelox/static/js/main.d39e2954.chunk.js",
-    "main.js.map": "/appvelox/static/js/main.d39e2954.chunk.js.map",
-    "runtime-main.js": "/appvelox/static/js/runtime-main.93210ec6.js",
-    "runtime-main.js.map": "/appvelox/static/js/runtime-main.93210ec6.js.map",
-    "static/js/2.f3c06f28.chunk.js": "/appvelox/static/js/2.f3c06f28.chunk.js",
-    "static/js/2.f3c06f28.chunk.js.map": "/appvelox/static/js/2.f3c06f28.chunk.js.map",
-    "static/js/3.a9ef2a63.chunk.js": "/appvelox/static/js/3.a9ef2a63.chunk.js",
-    "static/js/3.a9ef2a63.chunk.js.map": "/appvelox/static/js/3.a9ef2a63.chunk.js.map",
+    "main.css": "/appvelox/static/css/main.f8e336f0.chunk.css",
+    "main.js": "/appvelox/static/js/main.5e1500d2.chunk.js",
+    "main.js.map": "/appvelox/static/js/main.5e1500d2.chunk.js.map",
+    "runtime-main.js": "/appvelox/static/js/runtime-main.3886a57e.js",
+    "runtime-main.js.map": "/appvelox/static/js/runtime-main.3886a57e.js.map",
+    "static/js/2.42ece932.chunk.js": "/appvelox/static/js/2.42ece932.chunk.js",
+    "static/js/2.42ece932.chunk.js.map": "/appvelox/static/js/2.42ece932.chunk.js.map",
+    "static/js/3.51c00981.chunk.js": "/appvelox/static/js/3.51c00981.chunk.js",
+    "static/js/3.51c00981.chunk.js.map": "/appvelox/static/js/3.51c00981.chunk.js.map",
     "index.html": "/appvelox/index.html",
-    "static/css/main.bb9bf667.chunk.css.map": "/appvelox/static/css/main.bb9bf667.chunk.css.map",
-    "static/js/2.f3c06f28.chunk.js.LICENSE.txt": "/appvelox/static/js/2.f3c06f28.chunk.js.LICENSE.txt",
+    "static/css/main.f8e336f0.chunk.css.map": "/appvelox/static/css/main.f8e336f0.chunk.css.map",
+    "static/js/2.42ece932.chunk.js.LICENSE.txt": "/appvelox/static/js/2.42ece932.chunk.js.LICENSE.txt",
     "static/media/analysys.58d832b2.svg": "/appvelox/static/media/analysys.58d832b2.svg",
     "static/media/back.12ee7e8b.svg": "/appvelox/static/media/back.12ee7e8b.svg",
     "static/media/bell.cb0013f4.svg": "/appvelox/static/media/bell.cb0013f4.svg",
@@ -32,9 +32,9 @@
     "static/media/tests.f452faa4.svg": "/appvelox/static/media/tests.f452faa4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93210ec6.js",
-    "static/js/2.f3c06f28.chunk.js",
-    "static/css/main.bb9bf667.chunk.css",
-    "static/js/main.d39e2954.chunk.js"
+    "static/js/runtime-main.3886a57e.js",
+    "static/js/2.42ece932.chunk.js",
+    "static/css/main.f8e336f0.chunk.css",
+    "static/js/main.5e1500d2.chunk.js"
   ]
 }
