@@ -17,7 +17,7 @@ function Main() {
 
   return (
     <TransitionGroup>
-      <CSSTransition timeout={300} classNames="fade" key={location.key}>
+      <CSSTransition timeout={300} classNames="page" key={location.key}>
         <Switch location={location}>
           <Route exact path="/">
             <ProfileMain AppointmentData={Appointment} />

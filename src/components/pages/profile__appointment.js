@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function ProfileAppointment({ AppointmentData }) {
   const [listExpanded, setListExpanded] = useState(false);
   return (
-    <main className="pl-5 content-h-full flex space-x-5">
+    <main className="pl-5 content-h-full flex">
       <section className="w-3/4 flex-column ">
         <Link to="/">
           <h2 className="font-semibold m-4 flex items-center">
@@ -17,13 +17,13 @@ function ProfileAppointment({ AppointmentData }) {
         {
           <div
             onClick={() => setListExpanded(!listExpanded)}
-            className="max-w-md my-2 pr-4 color-light-blue cursor-pointer text-right text-sm underline"
+            className="max-w-md 2xl:max-w-xl pr-8 m-2 color-light-blue cursor-pointer text-right text-sm underline"
           >
             {listExpanded ? "Свернуть список" : "Показать все записи"}
           </div>
         }
 
-        <div className="h-5/6 overflow-y-auto flex-column space-y-5">
+        <div className="h-5/6 overflow-y-auto flex-column space-y-5 pr-6">
           <RenderList
             list={AppointmentData}
             minSize={2}
