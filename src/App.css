@@ -18,16 +18,20 @@
   max-height: calc(100vh - 3.5rem);
 }
 .digitalCard:hover > .digitalCard__Icon {
+  transition: color ease-in-out 0.3s, background-color ease-in-out 0.3s;
   background-color: #50caff;
   color: white;
 }
 .digitalCard:hover .digitalCard__Bullet {
+  transition: background-color ease-in-out 0.3s;
   background-color: #50caff;
 }
 .digitalCard:hover .digitalCard__Description {
+  transition: border-color ease-in-out 0.3s;
   border-color: #50caff;
 }
 .digitalCard:hover {
+  transition: border-color ease-in-out 0.3s;
   border-color: #50caff;
 }
 
