@@ -16,9 +16,10 @@
 .bg-default {
   background-color: #f9fafb;
 }
-
-.content-h-full {
-  max-height: calc(100% - 3.5rem);
+@media (min-width: 1024px) {
+  .content-h-full {
+    max-height: calc(100vh - 3.5rem);
+  }
 }
 .digitalCard {
   min-height: 183px;
