@@ -7,7 +7,7 @@ import { ReactComponent as More } from "../icons/more.svg";
 import profile from "../img/profile.jpg";
 function Header() {
   return (
-    <header className="bg-light-blue h-14 w-full px-10 flex justify-between">
+    <header className="sticky top-0 bg-light-blue h-14 w-full px-10 flex justify-between">
       <h1 className="h-14 text-white text-3xl flex items-center">
         Мой профиль
       </h1>

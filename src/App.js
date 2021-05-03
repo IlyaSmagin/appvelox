@@ -6,7 +6,7 @@ import Main from "./components/main";
 
 function App() {
   return (
-    <div className="App flex flex-wrap w-screen bg-gray-50">
+    <div className="App flex flex-wrap w-screen">
       <BrowserRouter basename="/appvelox">
         <Sidebar />
         <div className="flex-1">

@@ -6,8 +6,8 @@ import { Link } from "react-router-dom";
 function ProfileAppointment({ AppointmentData }) {
   const [listExpanded, setListExpanded] = useState(false);
   return (
-    <main className="pl-5 content-h-full flex">
-      <section className="w-3/4 flex-column ">
+    <main className="pl-5 content-h-full flex flex-col lg:flex-row">
+      <section className="w-full flex-col">
         <Link to="/">
           <h2 className="font-semibold m-4 flex items-center">
             <Back className="h-5 w-5 fill-current inline-block mr-2" /> Мои
@@ -23,7 +23,7 @@ function ProfileAppointment({ AppointmentData }) {
           </div>
         }
 
-        <div className="h-5/6 overflow-y-auto flex-column space-y-5 pr-6">
+        <div className="h-5/6 overflow-y-auto flex-col space-y-5 pr-6">
           <RenderList
             list={AppointmentData}
             minSize={2}
@@ -31,7 +31,7 @@ function ProfileAppointment({ AppointmentData }) {
           />
         </div>
       </section>
-      <section className="w-full mt-10">
+      <section className="w-full my-10">
         <Calendar />
       </section>
     </main>
