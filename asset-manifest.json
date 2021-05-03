@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/appvelox/static/css/main.77003918.chunk.css",
-    "main.js": "/appvelox/static/js/main.c8af7a99.chunk.js",
-    "main.js.map": "/appvelox/static/js/main.c8af7a99.chunk.js.map",
+    "main.css": "/appvelox/static/css/main.b9ff9ffd.chunk.css",
+    "main.js": "/appvelox/static/js/main.2695fdbd.chunk.js",
+    "main.js.map": "/appvelox/static/js/main.2695fdbd.chunk.js.map",
     "runtime-main.js": "/appvelox/static/js/runtime-main.3886a57e.js",
     "runtime-main.js.map": "/appvelox/static/js/runtime-main.3886a57e.js.map",
     "static/js/2.8a571e91.chunk.js": "/appvelox/static/js/2.8a571e91.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.51c00981.chunk.js": "/appvelox/static/js/3.51c00981.chunk.js",
     "static/js/3.51c00981.chunk.js.map": "/appvelox/static/js/3.51c00981.chunk.js.map",
     "index.html": "/appvelox/index.html",
-    "static/css/main.77003918.chunk.css.map": "/appvelox/static/css/main.77003918.chunk.css.map",
+    "static/css/main.b9ff9ffd.chunk.css.map": "/appvelox/static/css/main.b9ff9ffd.chunk.css.map",
     "static/js/2.8a571e91.chunk.js.LICENSE.txt": "/appvelox/static/js/2.8a571e91.chunk.js.LICENSE.txt",
     "static/media/analysys.58d832b2.svg": "/appvelox/static/media/analysys.58d832b2.svg",
     "static/media/back.12ee7e8b.svg": "/appvelox/static/media/back.12ee7e8b.svg",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.3886a57e.js",
     "static/js/2.8a571e91.chunk.js",
-    "static/css/main.77003918.chunk.css",
-    "static/js/main.c8af7a99.chunk.js"
+    "static/css/main.b9ff9ffd.chunk.css",
+    "static/js/main.2695fdbd.chunk.js"
   ]
 }
